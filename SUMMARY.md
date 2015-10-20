@@ -1,5 +1,4 @@
 # Summary
-This is the summary of my book.
 
 - [介绍](README.md)
 - [第一章](1/1_0.md)
